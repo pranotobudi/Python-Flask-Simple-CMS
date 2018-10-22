@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Bulk Post</h1>
+    {% for post in bulk_post %}
+        <div>{{ post.title }}</div>
+        <div>{{ post.content }}</div>
+    {% endfor %}
+
+{% endblock content %}
