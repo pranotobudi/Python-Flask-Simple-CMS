@@ -1,6 +1,6 @@
 # Python Flask - Simple CMS Project
 
-##Flask Features:
+## Flask Features:
 - Templates
 - Forms & User Input
 - Database with Flask
@@ -8,5 +8,5 @@
 - User Authentication
 - User Account
 - CRUD database
-- Forget Email & Password Authentication
+- Email & Password Reset Authentication
 - Custom Error Page
